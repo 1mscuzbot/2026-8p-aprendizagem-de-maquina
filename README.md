@@ -1,8 +1,27 @@
 # Aprendizagem de Máquina
 
+**Universidade Tuiuti do Paraná — BCC**
+**Material:** Equipe no Microsoft Teams (quando disponível)
+
 ## Estrutura
 - `material/slides/` — slides das aulas
 - `material/provas/` — provas e gabaritos
-- `material/exercicios/` — listas de exercícios
+- `material/exercicios/` — listas, práticas e estudos dirigidos
 - `projetos/` — trabalhos práticos
 - `notas/` — anotações e resumos
+
+## Estudo Dirigido
+- [ED01 — Análise argumentativa sobre tema atual de IA](notas/estudo-ed01-analise-argumentativa-ia.md) · PDF: [`material/exercicios/ED01.pdf`](material/exercicios/ED01.pdf)
+  - **Tema escolhido:** 4 — Alucinações / confiabilidade (foco jurídico)
+  - **Dupla:** Lucas Müller Scuzziato · Davi Emannoel Lopes de Souza
+  - **Texto:** [ed01-alucinacoes-texto-completo.md](notas/ed01-alucinacoes-texto-completo.md) · [fontes](notas/pesquisa-ed01-alucinacoes-fontes.md)
+  - Entrega oficial: **`.docx`** no diretório do professor (não LaTeX)
+
+## Arquivos no repositório
+| Arquivo | Descrição |
+|---------|-----------|
+| `material/exercicios/ED01.pdf` | Enunciado do Estudo Dirigido 01 |
+| `Aula07-09 - Aula prática.ipynb` | Notebook da aula prática |
+| `Aula_07-08.py` / `Atividade.1.py` | Scripts de prática em sala |
+| `Whatsapp Scan 26 de agosto de 2026 at 21.28.51.pdf` | Scan de exercício feito em sala |
+| `scatter_medinc.png` | Gráfico gerado na prática |
